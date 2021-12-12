@@ -15,3 +15,5 @@ L'image en question est le "Chrysler Building" que vous pouvez trouver ici-même
 Vous pouvez soit l'imprimer soit tout simplement l'afficher sur votre écran (l'application détecte l'image même lorsqu'elle se trouve sur l'écran).
 
 J'espère que mon application vous plaira !
+
+Nathan
